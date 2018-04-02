@@ -1,0 +1,18 @@
+| Student | Subject   | Score |
+|:--------|:----------|:------|
+| John    | Physics   | 78    |
+| Alice   | Physics   | 58    |
+| Rachel  | Physics   | 22    |
+| Tom     | Physics   | 78    |
+| John    | Chemistry | 79    |
+| Alice   | Chemistry | 72    |
+| Rachel  | Chemistry | 61    |
+| Tom     | Chemistry | 89    |
+| John    | English   | 56    |
+| Alice   | English   | 91    |
+| Rachel  | English   | 88    |
+| Tom     | English   | 56    |
+| John    | Math      | 95    |
+| Alice   | Math      | 81    |
+| Rachel  | Math      | 64    |
+| Tom     | Math      | 83    |

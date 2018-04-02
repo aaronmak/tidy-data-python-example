@@ -1,0 +1,46 @@
+| Destination Country              | Destination Country Code | Origin Country | People  |
+|:---------------------------------|:-------------------------|:---------------|:--------|
+| Burundi                          | 108                      | Other North    | 1004.0  |
+| Comoros                          | 174                      | Other North    | 294.0   |
+| Djibouti                         | 262                      | Other North    | 673.0   |
+| Eritrea                          | 232                      | Other North    | 339.0   |
+| Ethiopia                         | 231                      | Other North    | 6790.0  |
+| Kenya                            | 404                      | Other North    | 11014.0 |
+| Madagascar                       | 450                      | Other North    | 1859.0  |
+| Malawi                           | 454                      | Other North    | 5760.0  |
+| Mauritius                        | 480                      | Other North    | 103.0   |
+| Mayotte                          | 175                      | Other North    | 396.0   |
+| Mozambique                       | 508                      | Other North    | 7813.0  |
+| Réunion                          | 638                      | Other North    | 3769.0  |
+| Rwanda                           | 646                      | Other North    | 1278.0  |
+| Seychelles                       | 690                      | Other North    | 63.0    |
+| Somalia                          | 706                      | Other North    | 3329.0  |
+| South Sudan                      | 728                      | Other North    |         |
+| Uganda                           | 800                      | Other North    | 25.0    |
+| United Republic of Tanzania      | 834                      | Other North    | 1357.0  |
+| Zambia                           | 894                      | Other North    | 766.0   |
+| Zimbabwe                         | 716                      | Other North    | 2387.0  |
+| Angola                           | 24                       | Other North    | 3247.0  |
+| Cameroon                         | 120                      | Other North    | 1162.0  |
+| Central African Republic         | 140                      | Other North    | 3005.0  |
+| Chad                             | 148                      | Other North    | 649.0   |
+| Congo                            | 178                      | Other North    | 1506.0  |
+| Democratic Republic of the Congo | 180                      | Other North    | 27079.0 |
+| Equatorial Guinea                | 226                      | Other North    | 207.0   |
+| Gabon                            | 266                      | Other North    | 580.0   |
+| Sao Tome and Principe            | 678                      | Other North    | 12.0    |
+| Algeria                          | 12                       | Other North    | 1820.0  |
+| Egypt                            | 818                      | Other North    | 1480.0  |
+| Libya                            | 434                      | Other North    |         |
+| Morocco                          | 504                      | Other North    | 4269.0  |
+| Sudan                            | 729                      | Other North    |         |
+| Tunisia                          | 788                      | Other North    | 1257.0  |
+| Western Sahara                   | 732                      | Other North    | 29.0    |
+| Botswana                         | 72                       | Other North    | 646.0   |
+| Lesotho                          | 426                      | Other North    | 687.0   |
+| Namibia                          | 516                      | Other North    | 283.0   |
+| South Africa                     | 710                      | Other North    | 8380.0  |
+| Swaziland                        | 748                      | Other North    | 321.0   |
+| Benin                            | 204                      | Other North    | 818.0   |
+| Burkina Faso                     | 854                      | Other North    | 6333.0  |
+| Cabo Verde                       | 132                      | Other North    | 99.0    |
